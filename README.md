@@ -64,4 +64,22 @@
     <td width="50%" valign="top">
       <h3 align="left">🏢 Hatyai Condo</h3>
       <p>End-to-end property management system with room occupancy tracking, automated utility billing, maintenance logs, and a public tenant portal.</p>
-      <code>PostgreSQL</code>
+      <code>PostgreSQL</code> <code>Node.js</code> <code>React</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Halls-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halls-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Halls-09&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" />
+  <br/><br/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Halls-09&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:064E3B,100:0D1117&height=100&section=footer" />
