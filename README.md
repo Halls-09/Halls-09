@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:064E3B,100:10B981&height=120&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6B21A8,100:EC4899&height=120&section=header" />
 
 # Hi, I'm Thanakorn Karndee (Hall) 👋
 
 <a href="https://portfolio-thanakorn.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Applied+Computer+Science+%40+KMUTT;UX%2FUI+Designer+%26+Full-Stack+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=520&lines=Applied+Computer+Science+%40+KMUTT;UX%2FUI+Designer+%26+Full-Stack+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" />
 </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-thanakorn.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanakorn-karndee-8a445240a)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanakornkarndee@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=EC4899)](https://portfolio-thanakorn.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanakorn-karndee-8a445240a)
+[![Email](https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanakornkarndee@gmail.com)
 
 </div>
 
@@ -64,8 +64,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Halls-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halls-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Halls-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=A855F7&text_color=E2E8F0" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halls-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=E2E8F0" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:064E3B,100:0D1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:6B21A8,100:0D1117&height=100&section=footer" />
