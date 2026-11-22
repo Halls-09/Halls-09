@@ -1,85 +1,71 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:064E3B,100:10B981&height=180&section=header&text=Thanakorn%20Karndee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20Computer%20Science%20@%20KMUTT&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:064E3B,100:10B981&height=120&section=header" />
+
+# Hi, I'm Thanakorn Karndee (Hall) 👋
 
 <a href="https://portfolio-thanakorn.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=UX%2FUI+Designer+%26+Full-Stack+Developer;Building+Scalable+Web+Apps+%26+Data+Pipelines;LINE+HACK+2025+Finalist+%F0%9F%8F%86;Open+for+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Applied+Computer+Science+%40+KMUTT;UX%2FUI+Designer+%26+Full-Stack+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" />
 </a>
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=10B981)](https://portfolio-thanakorn.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/thanakorn-karndee-8a445240a)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:thanakornkarndee@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Halls-09&style=for-the-badge&color=10B981&label=VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-thanakorn.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanakorn-karndee-8a445240a)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanakornkarndee@gmail.com)
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 👨‍💻 About Me
+- 🎓 Undergraduate in **Applied Computer Science** at King Mongkut's University of Technology Thonburi (KMUTT)
+- 💡 Focused on building scalable web applications, intuitive user interfaces, and automated data pipelines
+- 🏆 **LINE HACK 2025 Finalist** — Built *SolveMe*, an urban peer-help LINE Mini App with NLP prioritization
+- 🔍 Currently looking for an **Internship** in Software Engineering, Frontend/Full-Stack, UX/UI, or Data Engineering
 
-<div align="center">
+---
 
-**Frontend, Backend & Design**  
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,figma,nodejs,bun,postgres,prisma,firebase,py,sqlite,git&perline=7&theme=dark" />
-</a>
+### 🛠️ Tech Stack
 
-<br/><br/>
+**Frontend & Design**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Data Engineering**  
-<br/>
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
-![DuckDB](https://img.shields.io/badge/DuckDB-0D1117?style=for-the-badge&logo=duckdb&logoColor=FFF000)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![Apache Parquet](https://img.shields.io/badge/Parquet-0D1117?style=for-the-badge&logo=apache&logoColor=50ABF1)
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-</div>
+**Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Parquet](https://img.shields.io/badge/Apache_Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">📈 PortVizz</h3>
-      <p>Quantitative portfolio management web app featuring a <b>4-stage ML optimization pipeline</b> (LSTM, K-Means, Genetic Algorithm), backtesting engine, and RAG financial chatbot.</p>
-      <code>Next.js</code> <code>Python</code> <code>Node.js</code> <code>ML</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🎓 IP&S Platform</h3>
-      <p>Full-stack IT portfolio & skill credentialing platform with instructor badge endorsements, Swagger API docs, and client-side <b>Web Worker WebP compression</b>.</p>
-      <code>Elysia.js</code> <code>React</code> <code>Firebase</code> <code>Swagger</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">⚙️ Hacker News ETL</h3>
-      <p>Automated ETL pipeline ingesting live REST API payloads into a local <b>JSON Data Lake</b> and transforming them into a <b>SQLite Data Warehouse</b> for SQL analytics.</p>
-      <code>Python</code> <code>Pandas</code> <code>SQLite</code> <code>REST API</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🏢 Hatyai Condo</h3>
-      <p>End-to-end property management system with room occupancy tracking, automated utility billing, maintenance logs, and a public tenant portal.</p>
-      <code>PostgreSQL</code> <code>Node.js</code> <code>React</code>
-    </td>
-  </tr>
-</table>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **PortVizz** | Quantitative portfolio management web app with a 4-stage ML optimization pipeline, backtesting engine, and RAG financial chatbot. | `Next.js` `Python` `Node.js` `ML` |
+| **IP&S** | Full-stack IT portfolio & skill credentialing platform with instructor badge endorsements and Web Worker WebP compression. | `Elysia.js` `Firebase` `React` `Swagger` |
+| **Hacker News ETL** | Automated ETL pipeline ingesting live REST API data into a local JSON Data Lake and SQLite Data Warehouse for SQL analytics. | `Python` `Pandas` `SQLite` `REST API` |
+| **Hatyai Condo** | End-to-end property management system with room occupancy tracking, utility billing, and a public tenant portal. | `PostgreSQL` `Node.js` `React` |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Halls-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halls-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Halls-09&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" />
-  <br/><br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Halls-09&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:064E3B,100:0D1117&height=100&section=footer" />
